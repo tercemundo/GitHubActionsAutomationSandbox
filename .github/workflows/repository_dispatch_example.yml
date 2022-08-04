@@ -2,6 +2,7 @@ name: Repository Dispatch Example
 
 on:
   repository_dispatch:
+    types: [hello]
 
 jobs:
   triggered_dependencies_tests_job:
