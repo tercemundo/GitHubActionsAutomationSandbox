@@ -1,4 +1,4 @@
-name: Repository Dispatch Example
+name: Hello Dispatch
 
 on:
   repository_dispatch:
